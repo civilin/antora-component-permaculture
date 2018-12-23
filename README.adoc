@@ -1,0 +1,5 @@
+= Antora Component: Permaculture
+// :idprefix:
+// :idseparator: -
+
+This Antora component contains topics about permaculture and sustainable living.
