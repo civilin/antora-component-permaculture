@@ -6,6 +6,6 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-I believe that each of us should be using _permaculture_ practices to transform the land we control. Permaculture restores the balance of nature in a sustainable way. It is our best option to make the world a better place.
+I believe each of us should be applying _permaculture_ practices to the land we control. Permaculture restores the balance of nature in a sustainable way. It is our best option to fight climate change, to save the environment, and ourselves.
 
 Permaculture is a science that unifies forestry, watershed management, agriculture, horticulture, botany, and biology to work with Nature. Permaculture can restore soil fertility, replenish water tables, and build topsoil. It can feed the diversity of life, whether human, plant, and animal. Permaculture can green deserts and eliminate world hunger. It is the soul of a quiet revolution that empowers individuals and communities to thrive, with less reliance on money or human governance. Once in motion, Permaculture is self-sustaining.
