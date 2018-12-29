@@ -8,8 +8,7 @@ endif::[]
 
 image:living2.jpg[]
 
-image:living1.jpg[float="right",align="left"]
-If you feel uneasy about changing times, take heart. It is possible to achieve rock-solid personal security by becoming self-reliant. With forethought and work, you can transform your home and your lifestyle into an oasis of sustainable living.
+image:living1.jpg[float="right",align="left"] If you feel uneasy about changing times, take heart. It is possible to achieve rock-solid personal security by becoming self-reliant. With forethought and work, you can transform your home and your lifestyle into an oasis of sustainable living.
 
 More importantly, you can adopt *permaculture* practices that will transform the land around you, restoring the balance of nature, while sustaining human and animal life indefinitely. When your time on this Earth is over, as will surely happen, you will have made this world a better place.
 
