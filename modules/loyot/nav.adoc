@@ -1,2 +1,2 @@
-.Module 1
+// Module 1 (loyot)
 * xref:life-on-your-own-terms.adoc[Life on Your Own Terms]
