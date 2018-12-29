@@ -1,1 +1,1 @@
-* xref:index.adoc[About this component]
+* xref:index.adoc[About Permaculture]
