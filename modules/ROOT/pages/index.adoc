@@ -6,4 +6,26 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This page, (index.adoc in ROOT > pages) is the root page of the Permaculture component.
+image:living2.jpg[]
+
+image::living1.jpg[float="right"]
+
+If you feel uneasy about changing times, take heart. It is possible to achieve rock-solid personal security by becoming self-reliant. With forethought and work, you can transform your home and your lifestyle into an oasis of sustainable living.
+
+More importantly, you can adopt *permaculture* practices that will transform the land around you, restoring the balance of nature, while sustaining human and animal life indefinitely. When your time on this Earth is over, as will surely happen, you will have made this world a better place.
+
+True personal security is based on a simple premise: that we as individuals can produce more of what we need, relying less on money and jobs for security. We can detach ourselves from the treadmill of consumer culture, if we are clever enough not to play by rules most people blindly follow. This isn't some hippy version of Utopia. I'm talking about _Permaculture_--the practical application of natural sciences for the mutual benefit of humans and the environment. When Permaculture is combined with alternative energy technologies and green building techniques, it is a powerful force for social change.
+
+Is the American Dream rigged? Perhaps. Consumerism erased our collective memory of how to fend for ourselves. To survive, we depend on global distribution systems operated for profit. The lettuce in our salads travels across the continent to reach us. Our self-reliant grandparents would be shocked by what we eat, by how much we borrow and spend, and by how helpless we are.
+
+For every glorious footprint human beings left on the moon, industrial civilization spawned a hundred toxic landfills. Greed and competition kills millions every decade. What will happen _when_ the climate worsens? You and I cannot fix the world, but we can change how we live as individuals. By applying our intelligence to work with nature instead of trying to tame it, we can reap the rewards of its ways. The sweetest fruit of Permaculture is the freedom it offers. It's a quiet revolution that creates abundance.
+
+When I retire in a few years, I won't have the pension and insurance safety net my parents enjoyed. By adopting sustainable practices, I hope to reduce the amount of money I'll need to live comfortably.  I want more control over food, water, energy, and expenses. Thanks to the Internet, individuals like me can discover many ways to become self-reliant. From the notes I've hosted on this site, I will choose the strategies that appeal to me. I invite you to do the same.
+
+My generation of baby boomers is waking to hard realities affecting our future. The affluent society we were born to is fading, as are the social precepts we naively rebelled against in our youth.  Our 401K plans accumulated meager returns thanks to a half dozen recessions during our working years. A majority of boomers will not receive a pension. When most of us retire, we'll have no health insurance. If something happens to social security or Medicare, we will be hard pressed to get by.
+
+Many of us won't have enough income to maintain a modest middle-class standard of living. Some will never stop working. As a generation we are at peak productivity, yet we have no long-term security. There is no guarantee we won’t starve in our old age.
+
+I refuse to accept that. If you share my concerns, Permaculture may be for you, your sons and daughters.  Today’s young adults compete for fewer good jobs despite having college degrees. They have loans to repay, credit card debt, and the desire to purchase homes of their own. They’re wondering why they can’t get ahead, despite having done everything right. It’s a good question.
+
+So I say, let's figure out how to fix this. Here are my notes.
