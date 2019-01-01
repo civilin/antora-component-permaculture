@@ -6,6 +6,6 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-Each of us should apply _permaculture_ practices to any land that we control. Permaculture is a science that harnesses forestry, watershed management, agriculture, horticulture, botany, and biology to work with Nature. Permaculture restores the balance of nature in a sustainable way. It is our best option to fight climate change, to save the environment, and ourselves.
+Each of us should apply _permaculture_ practices to any land that we control. Permaculture is a science that applies forestry, watershed management, agriculture, horticulture, botany, and biology to work with nature. Permaculture restores fertility nature in a sustainable way. It is our best option to fight climate change, to save the environment, and ourselves.
 
 Permaculture can restore soil fertility, replenish water tables, and build topsoil. It can feed the diversity of life, whether human, plant, and animal. Permaculture can green deserts and eliminate world hunger. It is the soul of a quiet revolution that empowers individuals and communities to thrive, with less reliance on money or human governance. Once in motion, Permaculture is self-sustaining.
